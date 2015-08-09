@@ -1,4 +1,5 @@
 # DeepLearning-Sentiment
-# DeepLearning-Sentiment
-# Convnet-DeepLearning
+
 # SentenceModeling-DeepLearning
+
+Learning Sentence and User Representation on Twitter Data using Deep Learning Techniques
